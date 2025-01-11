@@ -1,0 +1,27 @@
+{
+    "appInfo": {
+        "name": "Mathly",
+        "version": "1.0.0",
+        "lastUpdate": "2025-01-11"
+    },
+    "contacts": {
+        "email": "suporte@meuapp.com",
+        "phone": "+55 11 1234-5678"
+    },
+    "links": {
+        "website": "https://lind.uno/",
+        "privacyPolicy": "https://www.meuapp.com/privacy",
+        "termsOfService": "https://www.meuapp.com/terms"
+    },
+    "apiDomain": "https://api.meuapp.com",
+    "importantUpdates": [
+        {
+            "date": "2025-01-01",
+            "message": "Correções de bugs e melhorias de desempenho."
+        },
+        {
+            "date": "2024-12-25",
+            "message": "Nova funcionalidade: suporte a múltiplos idiomas."
+        }
+    ]
+}
