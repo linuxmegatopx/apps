@@ -13,7 +13,7 @@
     "strings": {
       "privacyPolicy": "https://www.mathlyapp.com/privacy",
       "termsOfUse": "https://www.mathlyapp.com/terms"
-    }
-    "recommendations": null
+    },
+    "recommendations": "null"
   }
 }
