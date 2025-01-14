@@ -2,7 +2,7 @@
   "infoApp": {
     "name": "Mathly",
     "currentVersion": "1.0.0",
-    "domain": "mathlyapp.com",
+    "domain": "https://math.lind.uno",
     "contacts": {
       "telegramLink": "https://t.me/mathlyapp",
       "email": "support@mathlyapp.com"
