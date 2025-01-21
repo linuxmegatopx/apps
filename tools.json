@@ -1,0 +1,19 @@
+{
+  "infoApp": {
+    "name": "tools",
+    "currentVersion": "1.0.0",
+    "domain": "https://tools.lind.uno",
+    "contacts": {
+      "telegramLink": "https://t.me/ccgen_namsogen",
+      "email": "contactappmega@gmail.com"
+    },
+    "links": {
+      "website": "false"
+    },
+    "strings": {
+      "privacyPolicy": "false",
+      "termsOfUse": "false"
+    },
+    "recommendations": "null"
+  }
+}
